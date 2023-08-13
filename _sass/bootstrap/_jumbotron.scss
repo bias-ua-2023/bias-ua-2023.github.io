@@ -10,8 +10,19 @@
   }
 }
 
+$bg-image: url("/images/illustrations/neom-3qBi6HWZMeg-unsplash.jpg");
+
 .jumbotron-fluid {
+  height: 30vh;
   padding-right: 0;
   padding-left: 0;
   @include border-radius(0);
+
+  background-image: $bg-image;
+  background-size: cover;
+  background-position: center center;
+  background-color: rgba(0, 0, 0, 0.5); /* This will add a semi-transparent black overlay to the image */
+  opacity: 0.6; 
+  
+  
 }

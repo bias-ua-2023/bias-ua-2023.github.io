@@ -4,9 +4,10 @@ weight: 1
 ---
 
 # BIAS IN SOCIAL SCIENCE
- **summary, analysis and reporting** 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+ summary, analysis and reporting
 
 
+
+<img src="/images/illustrations/chase-chappell-m29D0DvAhF0-unsplash.jpg" alt="social intro" width="1000"/>
 

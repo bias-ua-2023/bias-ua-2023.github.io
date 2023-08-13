@@ -1,6 +1,6 @@
 .intro-image {
-  max-width: 100%; 
-  height: auto; 
+  width: 100%;
+  height: auto;
   margin-top: -40px;
 }
 .intro-image-absolute {
@@ -32,4 +32,15 @@
   @include media-breakpoint-up(md) {
     display: block;
   }
+}
+
+
+$bg-image: url('images/illustrations/neom-3qBi6HWZMeg-unsplash.jpg');
+
+.bg-image {
+  max-width: none;
+
+  padding: 0;
+  background-image: $bg-image;
+  opacity: 0.7;
 }
