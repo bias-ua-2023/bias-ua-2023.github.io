@@ -10,16 +10,16 @@
   {
     "title": "Lancaster University",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
+      "url": "images/features/lancaster.png",
+      "width": 180,
       "height": 80
     }
   },
   {
     "title": "Essex University",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
+      "url": "images/features/university-of-essex-logo.png",
+      "width": 180,
       "height": 80
     }
   }
