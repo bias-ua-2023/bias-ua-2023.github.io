@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# Responsible AI for labour market equality
+# Responsible AI for labor market equality
 
 ## BIAS is an interdisciplinary project to understand and tackle the role of AI algorithms in shaping ethnic and gender inequalities in the labor market, which is now increasingly digitized.
 
@@ -22,3 +22,6 @@ Our project comprises two interlinked work packages that respectively understand
 Potential 'biases' produced by AI technologies may significantly undermine labor market equality and stymy equitable and sustainable socio-economic development. BIAS's objectives speak directly to multiple national priority agendas in both the UK and Canada - gender pay gap, ethnic/racial disparity, and digital and industrial strategy.
 
 As both the UK and Canada look to embrace digital transformations as part of their national (economic and industrial) strategies, our focus on the implications of such transformations for labor market equalities and our objective to reduce such inequalities through the responsible development and deployment of AI promises a broad range of impacts, which are pertinent to the future of labor relations, economic competitiveness, human resource management, and industrial strategies.
+
+## Funding sources
+Our work was supported by the Economic and Social Research Council (ESRC ES/T012382/1) and the Social Sciences and Humanities Research Council (SSHRC 2003- 2019-0003) under the scheme of the Canada-UK Artificial Intelligence Initiative. The project title is BIAS: Responsible AI for Gender and Ethnic Labour Market Equality
