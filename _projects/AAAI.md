@@ -3,10 +3,10 @@ title: "Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic 
 weight: 2
 ---
 
-We propose a novel methodology that leverages a causal inference framework to effectively remove gender bias. The proposed method allows us to construct and analyze the complex causal mechanisms facilitating gender information flow while retaining oracle semantic information within word embeddings. Our comprehensive experiments show that the proposed method achieves state-of-the-art results in gender-debiasing tasks. In addition, our methods yield better performance in word similarity evaluation and various extrinsic downstream NLP tasks.
+With widening deployments of natural language processing (NLP) in daily life, inherited social biases from NLP models have become more severe and problematic. Previous studies have shown that word embeddings trained on human-generated corpora have strong gender biases that can produce discriminative results in downstream tasks. Previous debiasing methods focus mainly on modeling bias and only implicitly consider semantic information while completely overlooking the complex underlying causal structure among bias and semantic components. To address these issues, we propose a novel methodology that leverages a causal inference framework to effectively remove gender bias. The proposed method allows us to construct and analyze the complex causal mechanisms facilitating gender information flow while retaining oracle semantic information within word embeddings. Our comprehensive experiments show that the proposed method achieves state-of-the-art results in gender-debiasing tasks. In addition, our methods yield better performance in word similarity evaluation and various extrinsic downstream NLP tasks.
 
 [GitHub Link](https://github.com/Lei-Ding07/Word_Debias_DeSIP)
 
-[Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving (AAAI 2022)](https://ojs.aaai.org/index.php/AAAI/article/view/21443)
+[Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/21443)
 
 
