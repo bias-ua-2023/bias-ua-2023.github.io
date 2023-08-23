@@ -11,6 +11,6 @@ Existing algorithms mainly focus on the detection of the presence of gender bias
 To address this problem, we propose an algorithm that evaluates gender bias in the input text and provides guidance on how the text should be debiased by offering alternative wording that is closely related to the original input. 
 Our proposed method promises broad application in the human resources process, ranging from the development of job advertisements to algorithm-assisted screening of job applications.
 
-[GitHub Link]()
+[GitHub Link](https://github.com/Shenggang/Text_Bias_Reduction_public)
 
 [Paper Link](https://www.frontiersin.org/articles/10.3389/fdata.2022.805713/full)
