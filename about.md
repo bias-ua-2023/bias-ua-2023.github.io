@@ -5,83 +5,18 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Project BIAS - Responsible AI for Labour Market Equality, this research is co-led by Linglong Kong at the University of Alberta as part of the Canada-UK Artificial Intelligence Initiative, and is a collaboration between computing statisticians and social scientists at UAlberta, Lancaster University, and University of Essex.
 
-<!-- ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg) -->
+Kong’s UAlberta collaborators include Bei Jiang assistant professor in the Department of Mathematical and Statistical Sciences, Nicole Denier, assistant professor in the Department of Sociology in the Faculty of Arts, and Karen Hughes, professor in the Department of Sociology and Strategic Management and Organization, in the Alberta School of Business. 
 
-# Objectives
+“We aim to develop ‘responsible’ AI that mitigates biases and inequalities, both within organizations and on digital job platforms,” said Kong, associate professor in the Faculty of Science Department of Mathematical and Statistical Sciences and UAlberta project lead. 
 
-Financial accounting and financial reporting are often used as synonyms.
+Within organizations, AI algorithms are used in human resource processes such as screening resumes and selecting candidates. On digital networking platforms, such as LinkedIn, algorithms are used to screen and classify job advertisements, resumes, and profiles. The problem is that many of these algorithms were built on data that may be biased based on historical data about education, age, gender, and ethnicity, Kong explained.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+“This data embodies organisational biases regarding gender and ethnicity in historical hiring decisions. The trained algorithms are then used to screen resumes and select candidates based on predictions of the kind of person who would make a good hire as well as for ongoing training of the algorithms, thus doubly reinforcing these biases.” 
 
-## Relevance
+And that’s where Project BIAS comes in, with a focus on developing new AI algorithms that are sensitive to these gender and ethnic biases, and can mitigate them. 
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+“We aim to shed new light on how the rise of algorithm-enabled platforms, such as job platforms, has the potential to both exacerbate and mitigate social inequalities,” said Kong. “We can use our findings to inform future-oriented industrial human resources, and digital regulations and policies for the fourth industrial revolution.” 
 
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+A funding announcement on February 24 promised approximately $5M Canadian dollars and £5M British pounds over three years, to fund 10 interdisciplinary, international AI research teams under theCanada-UK Artificial Intelligence Initiative.
