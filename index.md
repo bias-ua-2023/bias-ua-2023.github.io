@@ -5,7 +5,7 @@ description: An international project aims to identify and reduce bias in job re
 intro_image: "images/illustrations/bias_illustrator1a.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # BIAS project
