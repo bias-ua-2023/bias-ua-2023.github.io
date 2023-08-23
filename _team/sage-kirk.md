@@ -1,7 +1,7 @@
 ---
 title: "Monideepa Tarafdar"
 date: 2018-11-19T10:47:58+10:00
-jobtitle: "PI"
+jobtitle: "Principle Investigator"
 promoted: true
 weight: 2
 ---
