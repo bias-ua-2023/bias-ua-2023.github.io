@@ -7,10 +7,9 @@ bodyClass: "page-home"
   <div class="container">
     <div class="row justify-content-start">
       <div class="col-12 col-md-6 col-lg-6 order-2 order-md-1">
-        {{ content }}
-        {% if page.show_call_box %}
-          {% include call.html show_button=true %}
-        {% endif %}
+        <h1>{{ page.subtitle}}</h1>
+
+        <h2>{{ page.description}}</h2>
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-6 col-lg-6 order-1 order-md-2 position-relative">
@@ -20,6 +19,21 @@ bodyClass: "page-home"
     </div>
   </div>
 </div>
+
+
+
+
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-12 col-lg-12">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+
+
+
 
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
